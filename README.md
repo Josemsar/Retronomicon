@@ -1,4 +1,5 @@
-# Retronomicon [![Build Status](https://travis-ci.org/Josemsar/Retronomicon.svg)](https://travis-ci.org/Josemsar/Retronomicon)
+# Retronomicon [![Build Status](https://travis-ci.org/Josemsar/Retronomicon.svg)](https://travis-ci.org/Josemsar/Retronomicon) 
+[![Dependency Status](https://david-dm.org/Josemsar/Retronomicon.svg)](https://david-dm.org/Josemsar/Retronomicon) 
 Classic game searching utility
 
 ## To Use
